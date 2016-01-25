@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sky.services.StubCustomerLocationServiceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2016-01-25T12:32:36" hostname="MCR-AL32360" time="0.001">
+  <properties/>
+  <testcase name="shouldThrowException_whenRequestedWithInvalidCustomerId" classname="com.sky.services.StubCustomerLocationServiceTest" time="0.0"/>
+  <testcase name="shouldReturnLocationIdAs_LONDON_whenRequestedWithValidCustomerId" classname="com.sky.services.StubCustomerLocationServiceTest" time="0.0"/>
+  <testcase name="shouldReturnLocationIdAs_LIVERPOOL_whenRequestedWithValidCustomerId" classname="com.sky.services.StubCustomerLocationServiceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,10 @@
+.header{
+    font-size: large;
+    color: black;
+    background-color: #f1c40f;
+    float: none;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    padding-top: 17px;
+}
